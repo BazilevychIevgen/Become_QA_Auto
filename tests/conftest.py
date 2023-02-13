@@ -9,7 +9,7 @@ class User:
 
     def create(self):
         self.name = "Ievgen"
-        self.second_name = "Bazilevych
+        self.second_name = "Bazilevych"
 
     def remove(self):
         self.name = ""
